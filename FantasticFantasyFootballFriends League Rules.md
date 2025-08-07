@@ -8,9 +8,9 @@ Travis McCarthy (League Founder - Present)
 
 Andrew Herrmann (2022 - Present)
 
-Revision Date: (5-28-24)
+Revision Date: (8-7-2025)
 
-Previous Versions: ACCESS HERE
+Previous Versions: [Available on my Github](https://github.com/yokahset/League-Docs)
 
 ## Intro
 
@@ -71,10 +71,24 @@ The Bench players are made up of the following:
 
 ## Waivers
 
-Waivers are run in reverse standings order, meaning the lowest placed team gets the first claim to waivers. 
-The waivers run Wednesday at 12am PDT 
-Players will be added to waivers two days after they are dropped. 
+Below outlines the waiver process for add/drop using the Free Agency Acquisition Budget[^1] 
 
+### During the off-season:
+1. Players will be allotted $100 in off-season FAAB
+2. Waivers are run at the start of the new league year after rosters become legal. (Refer to calendar for dates)
+3. Players will be claimed by the order of their FAAB bids. (In the event of a $ amount tie, sleeper will break the tie with its automatic rolling-waiver system.)
+4. All players will stay restricted after the claims (meaning adding can only happen via FAAB bids.
+5. Additional waivers will run once weekly on Wednesdays at the normal time for the remainder of the off-season.
+
+### During the season: 
+1. Players will be allotted $100 in regular season FAAB
+2. Waivers are run weekly on Wednesdays
+3. Players will be claimed by the order of their FAAB bids. (In the event of a $ amount tie, sleeper will break the tie with its automatic rolling-waiver system.)
+4. All players will become free agents after the FAAB claims, (meaning adding a player can happen without bidding)
+5. Players will lock to waiver after their games start.
+6. The process repeats from step 2.
+   
+   
 ## Scoring 
 
 Points wil be scored as follows: 
@@ -563,3 +577,7 @@ My favorite part of this league is getting to engage with all of the people here
 I would love to see us do a virtual / in-person hybrid mixer in the future where we can gather before the season or the draft and chit-chat as a League. 
 I think a good time for this would be post NFL Draft, Pre-Fantasy Draft. 
 
+## Footnotes: 
+
+[1] The league voted on 8-4-2025 to switch to the FAAB system in favor of the reverse standings waiver system.
+Please refer to the Votes History document for more information about any vote. 
