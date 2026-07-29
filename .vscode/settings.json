@@ -1,11 +1,16 @@
 {
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#093332",
-        "titleBar.activeBackground": "#0D4847",
-        "titleBar.activeForeground": "#F2FDFC"
-    },
-    "cSpell.words": [
-        "Herrmann",
-        "rostered"
-    ]
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#093332",
+    "titleBar.activeBackground": "#0D4847",
+    "titleBar.activeForeground": "#F2FDFC",
+    "titleBar.inactiveBackground": "#093332",
+    "titleBar.inactiveForeground": "#F2FDFC",
+    "statusBar.background": "#093332",
+    "statusBar.foreground": "#F2FDFC",
+    "statusBar.debuggingBackground": "#093332",
+    "statusBar.debuggingForeground": "#F2FDFC",
+    "statusBar.noFolderBackground": "#093332",
+    "statusBar.noFolderForeground": "#F2FDFC"
+  },
+  "cSpell.words": ["Herrmann", "rostered"]
 }
